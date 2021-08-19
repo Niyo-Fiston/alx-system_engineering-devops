@@ -1,2 +1,20 @@
-0-iam_betty
-contain a script to change user to betty
+this is explain deep about the tasks in this project
+
+Task 0: to change current user to betty I used command su as it made superuser in time -- file name "0-iam_betty"
+task 1: command to prints effective username of current user man id and read through manual for effective output -- file name "1-who_am_i"
+task 2: current user to know groups involved in you can just type groups --file name "2-groups"
+task 3: to own a file or change the owner command chown is there to help with that --file name "3-new_owner"
+task 4: creation of empty file --file name "4-empty"
+task 5: making a file executable --file name "5-execute"
+task 6: add permission to a file owner,group owner and other users --file name "6-multiple_permissions"
+task 7: add same permission to a file owner,group owner and other users --file name "7-everybody"
+task 8: add permission to a file owner,group and other users by just counting the 9 binary bits and all three share them 3 for each and count it in decimal to active permissions --file name "8-James_Bond"
+task 9: also use of decimal to set permissions on file --file name "9-John_Doe" 
+task 10: copy and set the mode of the file from another one
+task11: permission toward all subdirectories in current directory that marked by dot that comes late in the command --file name "11-directories_permissions"
+task 12: to create a directory and permissions to ward it at the same time --file name "12-directory_permissions"
+task 13: to change group owner of a file --file name "13-change_group"
+task 14: to change owner and group owner on data inside current directory --file name "100-change-owner-and-group"
+task 15: to chane permission on symbolic link --file name "101-symbolic_link_permissions"
+task 16: change permission based on a true condition --file name "102-if_only"
+task 17: command for watching a star wars ep 4 --file name "103-star_wars"
